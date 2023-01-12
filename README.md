@@ -8,7 +8,7 @@ A lovely responsive web app to view Studio Ghibli movies using the Ghibli REST A
 
 [Try it out here](https://starlit-babka-7ac42c.netlify.app/)!
 
-![Discover Ghibli Screenshot](../Ghibli-Film-Viewer/assets/Screenshot-min.png)
+![Discover Ghibli Screenshot](/assets/Screenshot-min.png)
 
 
 
